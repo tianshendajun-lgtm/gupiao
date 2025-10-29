@@ -1,0 +1,8 @@
+{
+     "version": "1.0.0",
+     "versionCode": 100,
+     "updateUrl": "https://example.com/gupiao.apk",
+     "updateMessage": "首次发布",
+     "forceUpdate": false,
+     "minVersion": "1.0.0"
+   }
